@@ -1,7 +1,6 @@
 <template>
 	<div class="card">
-		<img src="https://coachtech-video.s3-ap-northeast-1.amazonaws.com/clouds-449822_640.jpg" alt="" class="card-img">
-
+		<img src="https://www.beiz.jp/images_P/sky/sky_00165.jpg" alt="" class="card-img">
 		<div class="card-content">
 				<hi class="card-title">{{ city }}</hi>
 		</div>
